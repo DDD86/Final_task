@@ -1,0 +1,3 @@
+Dog, 3, Labrador
+Cat, 2, Siamese
+Hamster, 1, Syrian

@@ -1,0 +1,3 @@
+Horse, 5, Thoroughbred
+Camel, 8, Dromedary
+Donkey, 4, Mammoth
